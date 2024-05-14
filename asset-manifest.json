@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/iShop/static/css/main.79f64892.css",
+    "main.css": "/iShop/static/css/main.777c1110.css",
     "main.js": "/iShop/static/js/main.91b7433e.js",
     "static/media/logo_red.svg": "/iShop/static/media/logo_red.9d8fcb3265bfa3833b06.svg",
     "index.html": "/iShop/index.html",
-    "main.79f64892.css.map": "/iShop/static/css/main.79f64892.css.map",
+    "main.777c1110.css.map": "/iShop/static/css/main.777c1110.css.map",
     "main.91b7433e.js.map": "/iShop/static/js/main.91b7433e.js.map"
   },
   "entrypoints": [
-    "static/css/main.79f64892.css",
+    "static/css/main.777c1110.css",
     "static/js/main.91b7433e.js"
   ]
 }
